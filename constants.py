@@ -1,0 +1,7 @@
+__all__ = ['WIDTH', 'HEIGHT', 'BG_COLOR']
+
+WIDTH = 600
+HEIGHT = 600
+
+# COLOR OF THE BOARD
+BG_COLOR = (218, 160, 109)
